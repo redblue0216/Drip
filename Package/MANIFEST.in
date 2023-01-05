@@ -1,0 +1,4 @@
+include drip/doc/README.mdown
+include drip/drip_config.yaml
+graft drip/flask_app
+graft drip/test

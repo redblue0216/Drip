@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: drip
+Version: 0.1
+Summary: Drip is a lightweight production level algorithm platform, covering the whole life cycle from algorithm experiment, algorithm pre run management, algorithm runtime management to algorithm post run management.
+Author: shihua
+Author-email: 15021408795@163.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.9.12
+
+UNKNOWN
+

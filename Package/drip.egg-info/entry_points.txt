@@ -1,0 +1,2 @@
+[console_scripts]
+dripctl = drip.cli:drip

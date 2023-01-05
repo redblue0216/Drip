@@ -1,0 +1,11 @@
+drip_webui_host: "0.0.0.0"
+drip_webui_port: 22315
+drip_mongo_db: "drip"
+drip_mongo_host: "192.168.0.111"
+drip_mongo_port: 27017
+drip_mongo_username: "admin"
+drip_mongo_password: "123456"
+drip_minio_host: "192.168.0.111"
+drip_minio_port: "9000"
+drip_ttyd_host: "192.168.0.111"
+drip_ttyd_port: "7681"

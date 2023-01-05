@@ -1,0 +1,53 @@
+========
+快速指南
+========
+首先使用dripctl命令行工具进行管理员注册操作，然后启动webui后台服务。另外，后端详细配置在drip_config.yaml中。
+
+以下是dripctl命令行示例：
+
+.. code-block:: bash
+
+	$ dripctl create-admin
+
+	$ dripctl start-webui
+
+Drip算法研发流程
+^^^^^^^^^^^^^^^^
+.. image:: Drip流程图.PNG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
